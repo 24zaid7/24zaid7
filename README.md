@@ -1,4 +1,4 @@
-- Hi, I’m @24zaid7
+- Hi, I’m Zaid Ahmad
 - I’m interested in website development 
 - I’m currently learning mern stack
 - 😄 Pronouns: he/him
